@@ -1,0 +1,11 @@
+{
+  "name": "Karaoke Room & Free Call",
+  "description": "Aplikasi free voice & video call dengan kode room dan pemutar karaoke YouTube tersinkronisasi bersama teman.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
